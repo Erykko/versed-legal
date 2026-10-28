@@ -10,7 +10,7 @@ This policy explains what information Versed collects, why, who it is shared wit
 
 ## Who we are
 
-Versed is published by Eric Mutema, an individual developer based in Kenya ("we", "us"). We are responsible for your personal data under this policy.
+Versed is published by Versed LLC ("we", "us"). We are responsible for your personal data under this policy.
 
 For any privacy question or data request, email emutema.mutema@gmail.com.
 
@@ -113,4 +113,4 @@ If we change this policy, we'll update the effective date above and, for signifi
 
 ## Contact
 
-Eric Mutema, Kenya. Email: emutema.mutema@gmail.com
+Versed LLC. Email: emutema.mutema@gmail.com

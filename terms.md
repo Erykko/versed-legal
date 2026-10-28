@@ -6,7 +6,7 @@ permalink: /terms/
 
 Effective date: 28 October 2026
 
-These terms are an agreement between you and Eric Mutema, an individual developer based in Kenya ("we", "us"), who publishes the Versed app. By downloading or using Versed, you agree to these terms and to our [Privacy Policy](../privacy/). If you do not agree, please do not use the app.
+These terms are an agreement between you and Versed LLC ("Versed", "we", "us"), which publishes the Versed app. By downloading or using Versed, you agree to these terms and to our [Privacy Policy](../privacy/). If you do not agree, please do not use the app.
 
 ## Who can use Versed
 
@@ -87,8 +87,8 @@ If you downloaded Versed from the Apple App Store:
 
 ## Governing law
 
-These terms are governed by the laws of Kenya, without affecting any mandatory consumer protection rights you have where you live. Disputes go to the courts of Kenya, unless the law where you live gives you the right to bring them in your local courts.
+These terms are governed by the laws of the jurisdiction in which Versed LLC is organized, without affecting any mandatory consumer protection rights you have where you live. Disputes go to the courts of that jurisdiction, unless the law where you live gives you the right to bring them in your local courts.
 
 ## Contact
 
-Eric Mutema, Kenya. Email: emutema.mutema@gmail.com
+Versed LLC. Email: emutema.mutema@gmail.com
